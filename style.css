@@ -364,31 +364,6 @@ a ion-icon {
     transform: translate(-50%, -50%);
 }
 
-/* @keyframes anim {
-    0% {
-        background-position: left;
-    }
-    100% {
-        background-position: right;
-    }
-}
-
-.footnote h4 {
-    font-weight: normal;
-    color: #fff;
-    background-image: linear-gradient(to right, rgba(255, 1, 64, 0.836), rgba(23, 122, 204, 0.699), rgb(1, 255, 200));
-    background-clip: text;
-    margin-bottom: 20px;
-    background-size: 400%;
-    animation: anim 6s infinite alternate;
-    font-family: 'Gilroy';
-    width: 42%;
-    position: absolute;
-    top: 9px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-} */
-
 #main #currentPage {
     width: 10%;
     height: 5%;
